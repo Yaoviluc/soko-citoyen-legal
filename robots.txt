@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yaoviluc.github.io/soko-citoyen-legal/sitemap.xml
