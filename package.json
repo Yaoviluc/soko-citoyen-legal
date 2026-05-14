@@ -1,0 +1,16 @@
+{
+  "name": "legal-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build.mjs",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "marked": "^14.1.4"
+  }
+}
